@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio Nro i01 Validador de rangos", "Ejercicio Nro 01\Ejercicio Nro i01 Validador de rangos.csproj", "{AB48F5AE-1EF3-483E-87AF-B9E704B4420E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio Nro i04 Calculadora", "Ejercicio Nro i04 Calculadora\Ejercicio Nro i04 Calculadora.csproj", "{3B50B672-9EAB-45CD-9784-802661CB062F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio Nro A01 Calcular factorial", "Ejercicio Nro A01 Calcular factorial\Ejercicio Nro A01 Calcular factorial.csproj", "{FCA36FE2-4F13-4725-ADA2-387A5A10336D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB48F5AE-1EF3-483E-87AF-B9E704B4420E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB48F5AE-1EF3-483E-87AF-B9E704B4420E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB48F5AE-1EF3-483E-87AF-B9E704B4420E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB48F5AE-1EF3-483E-87AF-B9E704B4420E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B50B672-9EAB-45CD-9784-802661CB062F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B50B672-9EAB-45CD-9784-802661CB062F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B50B672-9EAB-45CD-9784-802661CB062F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B50B672-9EAB-45CD-9784-802661CB062F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA36FE2-4F13-4725-ADA2-387A5A10336D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA36FE2-4F13-4725-ADA2-387A5A10336D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA36FE2-4F13-4725-ADA2-387A5A10336D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA36FE2-4F13-4725-ADA2-387A5A10336D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7050F009-1570-451F-B400-848E6C23E539}
+	EndGlobalSection
+EndGlobal

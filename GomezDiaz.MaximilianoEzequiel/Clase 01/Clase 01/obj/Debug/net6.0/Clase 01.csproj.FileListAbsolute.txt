@@ -1,0 +1,15 @@
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 01\Clase 01\bin\Debug\net6.0\Clase 01.exe
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 01\Clase 01\bin\Debug\net6.0\Clase 01.deps.json
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 01\Clase 01\bin\Debug\net6.0\Clase 01.runtimeconfig.json
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 01\Clase 01\bin\Debug\net6.0\Clase 01.dll
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 01\Clase 01\bin\Debug\net6.0\Clase 01.pdb
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 01\Clase 01\obj\Debug\net6.0\Clase 01.csproj.AssemblyReference.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 01\Clase 01\obj\Debug\net6.0\Clase 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 01\Clase 01\obj\Debug\net6.0\Clase 01.AssemblyInfoInputs.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 01\Clase 01\obj\Debug\net6.0\Clase 01.AssemblyInfo.cs
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 01\Clase 01\obj\Debug\net6.0\Clase 01.csproj.CoreCompileInputs.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 01\Clase 01\obj\Debug\net6.0\Clase 01.dll
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 01\Clase 01\obj\Debug\net6.0\refint\Clase 01.dll
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 01\Clase 01\obj\Debug\net6.0\Clase 01.pdb
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 01\Clase 01\obj\Debug\net6.0\Clase 01.genruntimeconfig.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 01\Clase 01\obj\Debug\net6.0\ref\Clase 01.dll

@@ -1,0 +1,15 @@
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 02\Ejercicio Nro A01 Calcular factorial\bin\Debug\net6.0\Ejercicio Nro A01 Calcular factorial.exe
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 02\Ejercicio Nro A01 Calcular factorial\bin\Debug\net6.0\Ejercicio Nro A01 Calcular factorial.deps.json
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 02\Ejercicio Nro A01 Calcular factorial\bin\Debug\net6.0\Ejercicio Nro A01 Calcular factorial.runtimeconfig.json
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 02\Ejercicio Nro A01 Calcular factorial\bin\Debug\net6.0\Ejercicio Nro A01 Calcular factorial.dll
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 02\Ejercicio Nro A01 Calcular factorial\bin\Debug\net6.0\Ejercicio Nro A01 Calcular factorial.pdb
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 02\Ejercicio Nro A01 Calcular factorial\obj\Debug\net6.0\Ejercicio Nro A01 Calcular factorial.csproj.AssemblyReference.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 02\Ejercicio Nro A01 Calcular factorial\obj\Debug\net6.0\Ejercicio Nro A01 Calcular factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 02\Ejercicio Nro A01 Calcular factorial\obj\Debug\net6.0\Ejercicio Nro A01 Calcular factorial.AssemblyInfoInputs.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 02\Ejercicio Nro A01 Calcular factorial\obj\Debug\net6.0\Ejercicio Nro A01 Calcular factorial.AssemblyInfo.cs
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 02\Ejercicio Nro A01 Calcular factorial\obj\Debug\net6.0\Ejercicio Nro A01 Calcular factorial.csproj.CoreCompileInputs.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 02\Ejercicio Nro A01 Calcular factorial\obj\Debug\net6.0\Ejercicio Nro A01 Calcular factorial.dll
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 02\Ejercicio Nro A01 Calcular factorial\obj\Debug\net6.0\refint\Ejercicio Nro A01 Calcular factorial.dll
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 02\Ejercicio Nro A01 Calcular factorial\obj\Debug\net6.0\Ejercicio Nro A01 Calcular factorial.pdb
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 02\Ejercicio Nro A01 Calcular factorial\obj\Debug\net6.0\Ejercicio Nro A01 Calcular factorial.genruntimeconfig.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 02\Ejercicio Nro A01 Calcular factorial\obj\Debug\net6.0\ref\Ejercicio Nro A01 Calcular factorial.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ejercicio Nro i04 Calculadora/1.0.0": {
+        "runtime": {
+          "Ejercicio Nro i04 Calculadora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio Nro i04 Calculadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
