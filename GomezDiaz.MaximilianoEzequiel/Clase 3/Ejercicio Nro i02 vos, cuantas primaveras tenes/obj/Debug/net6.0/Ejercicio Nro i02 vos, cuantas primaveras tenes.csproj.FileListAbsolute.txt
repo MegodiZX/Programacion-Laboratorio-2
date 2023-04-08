@@ -1,0 +1,15 @@
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i02 vos, cuantas primaveras tenes\bin\Debug\net6.0\Ejercicio Nro i02 vos, cuantas primaveras tenes.exe
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i02 vos, cuantas primaveras tenes\bin\Debug\net6.0\Ejercicio Nro i02 vos, cuantas primaveras tenes.deps.json
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i02 vos, cuantas primaveras tenes\bin\Debug\net6.0\Ejercicio Nro i02 vos, cuantas primaveras tenes.runtimeconfig.json
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i02 vos, cuantas primaveras tenes\bin\Debug\net6.0\Ejercicio Nro i02 vos, cuantas primaveras tenes.dll
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i02 vos, cuantas primaveras tenes\bin\Debug\net6.0\Ejercicio Nro i02 vos, cuantas primaveras tenes.pdb
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i02 vos, cuantas primaveras tenes\obj\Debug\net6.0\Ejercicio Nro i02 vos, cuantas primaveras tenes.csproj.AssemblyReference.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i02 vos, cuantas primaveras tenes\obj\Debug\net6.0\Ejercicio Nro i02 vos, cuantas primaveras tenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i02 vos, cuantas primaveras tenes\obj\Debug\net6.0\Ejercicio Nro i02 vos, cuantas primaveras tenes.AssemblyInfoInputs.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i02 vos, cuantas primaveras tenes\obj\Debug\net6.0\Ejercicio Nro i02 vos, cuantas primaveras tenes.AssemblyInfo.cs
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i02 vos, cuantas primaveras tenes\obj\Debug\net6.0\Ejercicio Nro i02 vos, cuantas primaveras tenes.csproj.CoreCompileInputs.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i02 vos, cuantas primaveras tenes\obj\Debug\net6.0\Ejercicio Nro i02 vos, cuantas primaveras tenes.dll
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i02 vos, cuantas primaveras tenes\obj\Debug\net6.0\refint\Ejercicio Nro i02 vos, cuantas primaveras tenes.dll
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i02 vos, cuantas primaveras tenes\obj\Debug\net6.0\Ejercicio Nro i02 vos, cuantas primaveras tenes.pdb
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i02 vos, cuantas primaveras tenes\obj\Debug\net6.0\Ejercicio Nro i02 vos, cuantas primaveras tenes.genruntimeconfig.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i02 vos, cuantas primaveras tenes\obj\Debug\net6.0\ref\Ejercicio Nro i02 vos, cuantas primaveras tenes.dll

@@ -1,0 +1,30 @@
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.csproj.AssemblyReference.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.AssemblyInfoInputs.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.AssemblyInfo.cs
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.csproj.CoreCompileInputs.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio Nro i01 Creo que necesito un prestamo\bin\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.exe
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio Nro i01 Creo que necesito un prestamo\bin\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.deps.json
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio Nro i01 Creo que necesito un prestamo\bin\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.runtimeconfig.json
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio Nro i01 Creo que necesito un prestamo\bin\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.dll
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio Nro i01 Creo que necesito un prestamo\bin\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.pdb
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.dll
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\refint\Ejercicio Nro i01 Creo que necesito un prestamo.dll
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.pdb
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.genruntimeconfig.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\ref\Ejercicio Nro i01 Creo que necesito un prestamo.dll
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i01 Creo que necesito un prestamo\bin\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.exe
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i01 Creo que necesito un prestamo\bin\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.deps.json
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i01 Creo que necesito un prestamo\bin\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.runtimeconfig.json
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i01 Creo que necesito un prestamo\bin\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.dll
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i01 Creo que necesito un prestamo\bin\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.pdb
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.csproj.AssemblyReference.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.AssemblyInfoInputs.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.AssemblyInfo.cs
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.csproj.CoreCompileInputs.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.dll
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\refint\Ejercicio Nro i01 Creo que necesito un prestamo.dll
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.pdb
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\Ejercicio Nro i01 Creo que necesito un prestamo.genruntimeconfig.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 3\Ejercicio Nro i01 Creo que necesito un prestamo\obj\Debug\net6.0\ref\Ejercicio Nro i01 Creo que necesito un prestamo.dll
