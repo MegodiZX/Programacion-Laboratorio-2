@@ -1,0 +1,11 @@
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 03 Descuento por compra\bin\Debug\Ejercicio 03 Descuento por compra.exe.config
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 03 Descuento por compra\bin\Debug\Ejercicio 03 Descuento por compra.exe
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 03 Descuento por compra\bin\Debug\Ejercicio 03 Descuento por compra.pdb
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 03 Descuento por compra\obj\Debug\Ejercicio 03 Descuento por compra.csproj.AssemblyReference.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 03 Descuento por compra\obj\Debug\Ejercicio 03 Descuento por compra.csproj.SuggestedBindingRedirects.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 03 Descuento por compra\obj\Debug\Ejercicio_03_Descuento_por_compra.Form1.resources
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 03 Descuento por compra\obj\Debug\Ejercicio_03_Descuento_por_compra.Properties.Resources.resources
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 03 Descuento por compra\obj\Debug\Ejercicio 03 Descuento por compra.csproj.GenerateResource.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 03 Descuento por compra\obj\Debug\Ejercicio 03 Descuento por compra.csproj.CoreCompileInputs.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 03 Descuento por compra\obj\Debug\Ejercicio 03 Descuento por compra.exe
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 03 Descuento por compra\obj\Debug\Ejercicio 03 Descuento por compra.pdb

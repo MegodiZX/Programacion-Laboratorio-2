@@ -1,0 +1,11 @@
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 02 tabla de multiplicar\bin\Debug\Ejercicio 02 tabla de multiplicar.exe.config
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 02 tabla de multiplicar\bin\Debug\Ejercicio 02 tabla de multiplicar.exe
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 02 tabla de multiplicar\bin\Debug\Ejercicio 02 tabla de multiplicar.pdb
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 02 tabla de multiplicar\obj\Debug\Ejercicio 02 tabla de multiplicar.csproj.AssemblyReference.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 02 tabla de multiplicar\obj\Debug\Ejercicio 02 tabla de multiplicar.csproj.SuggestedBindingRedirects.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 02 tabla de multiplicar\obj\Debug\Ejercicio_02_tabla_de_multiplicar.Properties.Resources.resources
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 02 tabla de multiplicar\obj\Debug\Ejercicio 02 tabla de multiplicar.csproj.GenerateResource.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 02 tabla de multiplicar\obj\Debug\Ejercicio 02 tabla de multiplicar.csproj.CoreCompileInputs.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 02 tabla de multiplicar\obj\Debug\Ejercicio 02 tabla de multiplicar.exe
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 02 tabla de multiplicar\obj\Debug\Ejercicio 02 tabla de multiplicar.pdb
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 02 tabla de multiplicar\obj\Debug\Ejercicio_02_tabla_de_multiplicar.fmrPrincipal.resources

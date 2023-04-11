@@ -1,0 +1,11 @@
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 05 forms\bin\Debug\Clase 05 forms.exe.config
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 05 forms\bin\Debug\Clase 05 forms.exe
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 05 forms\bin\Debug\Clase 05 forms.pdb
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 05 forms\obj\Debug\Clase 05 forms.csproj.AssemblyReference.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 05 forms\obj\Debug\Clase 05 forms.csproj.SuggestedBindingRedirects.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 05 forms\obj\Debug\Clase_05_forms.Properties.Resources.resources
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 05 forms\obj\Debug\Clase 05 forms.csproj.GenerateResource.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 05 forms\obj\Debug\Clase 05 forms.csproj.CoreCompileInputs.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 05 forms\obj\Debug\Clase 05 forms.exe
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 05 forms\obj\Debug\Clase 05 forms.pdb
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Clase 05 forms\obj\Debug\Clase_05_forms.FrmSaludo.resources

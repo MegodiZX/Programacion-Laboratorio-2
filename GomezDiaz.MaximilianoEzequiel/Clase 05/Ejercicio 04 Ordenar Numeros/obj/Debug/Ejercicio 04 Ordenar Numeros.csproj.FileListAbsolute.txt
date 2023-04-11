@@ -1,0 +1,11 @@
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 04 Ordenar Numeros\bin\Debug\Ejercicio 04 Ordenar Numeros.exe.config
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 04 Ordenar Numeros\bin\Debug\Ejercicio 04 Ordenar Numeros.exe
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 04 Ordenar Numeros\bin\Debug\Ejercicio 04 Ordenar Numeros.pdb
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 04 Ordenar Numeros\obj\Debug\Ejercicio 04 Ordenar Numeros.csproj.AssemblyReference.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 04 Ordenar Numeros\obj\Debug\Ejercicio 04 Ordenar Numeros.csproj.SuggestedBindingRedirects.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 04 Ordenar Numeros\obj\Debug\Ejercicio_04_Ordenar_Numeros.Form1.resources
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 04 Ordenar Numeros\obj\Debug\Ejercicio_04_Ordenar_Numeros.Properties.Resources.resources
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 04 Ordenar Numeros\obj\Debug\Ejercicio 04 Ordenar Numeros.csproj.GenerateResource.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 04 Ordenar Numeros\obj\Debug\Ejercicio 04 Ordenar Numeros.csproj.CoreCompileInputs.cache
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 04 Ordenar Numeros\obj\Debug\Ejercicio 04 Ordenar Numeros.exe
+C:\programacion- Labo (Maxi)\GomezDiaz.MaximilianoEzequiel\Ejercicio 04 Ordenar Numeros\obj\Debug\Ejercicio 04 Ordenar Numeros.pdb
